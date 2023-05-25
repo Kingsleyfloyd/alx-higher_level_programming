@@ -1,6 +1,3 @@
-# 2-matrix_divided.txt
-# Naheemah Bello
-
 ==============================
 How to Use 2-matrix_divided.py
 ==============================

@@ -1,6 +1,3 @@
-# 4-print_square.txt
-# Naheemah Bello
-
 ============================
 How to Use 4-print_square.py
 ============================

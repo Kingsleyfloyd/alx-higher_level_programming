@@ -1,6 +1,3 @@
-# 5-text_indentation.txt
-# Naheemah Bello
-
 ================================
 How to Use 5-text_indentation.py
 ================================
